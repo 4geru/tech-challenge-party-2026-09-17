@@ -1,0 +1,79 @@
+{
+  "set": "Preschool Zodiac Characters",
+  "generatedWith": "gemini-2.5-flash-image",
+  "styleReference": "../sample-taurus-kids.png",
+  "items": [
+    {
+      "slug": "01-aries",
+      "file": "01-aries.png",
+      "nameJa": "おひつじ座",
+      "nameEn": "Aries"
+    },
+    {
+      "slug": "02-taurus",
+      "file": "02-taurus.png",
+      "nameJa": "おうし座",
+      "nameEn": "Taurus"
+    },
+    {
+      "slug": "03-gemini",
+      "file": "03-gemini.png",
+      "nameJa": "ふたご座",
+      "nameEn": "Gemini"
+    },
+    {
+      "slug": "04-cancer",
+      "file": "04-cancer.png",
+      "nameJa": "かに座",
+      "nameEn": "Cancer"
+    },
+    {
+      "slug": "05-leo",
+      "file": "05-leo.png",
+      "nameJa": "しし座",
+      "nameEn": "Leo"
+    },
+    {
+      "slug": "06-virgo",
+      "file": "06-virgo.png",
+      "nameJa": "おとめ座",
+      "nameEn": "Virgo"
+    },
+    {
+      "slug": "07-libra",
+      "file": "07-libra.png",
+      "nameJa": "てんびん座",
+      "nameEn": "Libra"
+    },
+    {
+      "slug": "08-scorpius",
+      "file": "08-scorpius.png",
+      "nameJa": "さそり座",
+      "nameEn": "Scorpius"
+    },
+    {
+      "slug": "09-sagittarius",
+      "file": "09-sagittarius.png",
+      "nameJa": "いて座",
+      "nameEn": "Sagittarius"
+    },
+    {
+      "slug": "10-capricornus",
+      "file": "10-capricornus.png",
+      "nameJa": "やぎ座",
+      "nameEn": "Capricornus"
+    },
+    {
+      "slug": "11-aquarius",
+      "file": "11-aquarius.png",
+      "nameJa": "みずがめ座",
+      "nameEn": "Aquarius"
+    },
+    {
+      "slug": "12-pisces",
+      "file": "12-pisces.png",
+      "nameJa": "うお座",
+      "nameEn": "Pisces"
+    }
+  ]
+}
